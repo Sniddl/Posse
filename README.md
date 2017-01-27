@@ -1,0 +1,2 @@
+# Posse
+Laravel Permissions Boilerplate
